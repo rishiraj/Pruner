@@ -1,2 +1,2 @@
-from network.mobilnetv2 import mobilenetv2
+from network.mobilenetv2 import mobilenetv2
 
